@@ -4,19 +4,14 @@ class Solution {
         int n=nums.length;
         if(nums[0]==1 && nums[n-1]==n)
         return 0;
-        for(int i=0;i<n-1;i++){
+        int a=-1,b=-1;
+       for(int i=0;i<n;i++ ){
+        if(nums[i]==1)
+        a=i;
+        if(nums[i]==n)
+        b=i;
 
-            if(nums[i]>nums[i+1]){
-               
-                int temp=nums[i];
-                nums[i]=nums[i+1];
-                nums[i+1]=temp;
-                count++;
-                i=-1;
-            }
-
-        }
-        return count>0 ? count : 0;
-        
+       }
+       return a < b ? a + (n - b - 1) : a + (n - b - 1) - 1;        
     }
 }
