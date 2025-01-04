@@ -8,13 +8,16 @@ class Solution {
         map.put(num,map.getOrDefault(num,0)+1);
        }
     
-    HashSet<Integer> result = new HashSet<>();
-    for(int nums : map.values()){
-        if(!result.add(nums))
-        return false;
+     List<Integer> result1 =new ArrayList<>();
+     Set<Integer> result2 = new HashSet<>();
 
+     for(int num : map.values()){
 
+        result1.add(num);
+        result2.add(num);
+     }
+
+      return result1.size()==result2.size();
     }
-    return true;
-}
+   
 }
