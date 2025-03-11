@@ -26,16 +26,12 @@ class MyStack {
     }
     
     public int pop() {
-        if (q1.isEmpty()) {
-            throw new IllegalStateException("Stack is empty");
-        }
+        
         return q1.poll(); 
     }
     
     public int top() {
-        if (q1.isEmpty()) {
-            throw new IllegalStateException("Stack is empty");
-        }
+        
         return q1.peek(); 
     }
     
