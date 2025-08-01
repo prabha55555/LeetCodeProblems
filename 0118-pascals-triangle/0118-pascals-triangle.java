@@ -10,7 +10,7 @@ class Solution {
     //         row.add((int)value); 
 
     //         for (int r = 1; r <= n; r++) {
-    //             value = value * (n - r + 1) / r;  
+    //             value = value * (n - r + 1) / r;                                                 ROW -COLUM +1 
     //             row.add((int)value);
     //         }
 
