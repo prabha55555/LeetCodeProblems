@@ -4,7 +4,7 @@ class Solution {
         int l=0,max=0;
         Set<Character> arr =new HashSet<>();
 
-        for(int r=0;r<s.length()-1;r++){
+        for(int r=0;r<s.length();r++){
              while(arr.contains(s.charAt(r))){
 
                 arr.remove(s.charAt(l));
