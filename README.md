@@ -15,6 +15,7 @@ Consistentance of the problem solving Java in leetcode
 | [0027-remove-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/prabha55555/LeetCodeProblems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0054-spiral-matrix/) | Medium |
+| [0228-summary-ranges](https://github.com/prabha55555/LeetCodeProblems/tree/main/0228-summary-ranges/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/prabha55555/LeetCodeProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Matrix
