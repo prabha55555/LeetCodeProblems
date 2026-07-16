@@ -6,6 +6,7 @@ Consistentance of the problem solving Java in leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/prabha55555/LeetCodeProblems/tree/main/0048-rotate-image/) | Medium |
 ## Array
