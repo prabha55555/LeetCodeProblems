@@ -94,4 +94,8 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/prabha55555/LeetCodeProblems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
