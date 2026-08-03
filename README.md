@@ -20,6 +20,7 @@ Consistentance of the problem solving Java in leetcode
 | [0054-spiral-matrix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/prabha55555/LeetCodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0228-summary-ranges](https://github.com/prabha55555/LeetCodeProblems/tree/main/0228-summary-ranges/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/prabha55555/LeetCodeProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -108,4 +109,8 @@ Consistentance of the problem solving Java in leetcode
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prabha55555/LeetCodeProblems/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/prabha55555/LeetCodeProblems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/prabha55555/LeetCodeProblems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
