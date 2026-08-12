@@ -52,6 +52,7 @@ Consistentance of the problem solving Java in leetcode
 | [0027-remove-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Consistentance of the problem solving Java in leetcode
 | [0013-roman-to-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/0058-length-of-last-word/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/prabha55555/LeetCodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
