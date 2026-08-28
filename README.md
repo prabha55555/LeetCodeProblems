@@ -115,6 +115,7 @@ Consistentance of the problem solving Java in leetcode
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/prabha55555/LeetCodeProblems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/prabha55555/LeetCodeProblems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/prabha55555/LeetCodeProblems/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/1068-product-sales-analysis-i/) | Easy |
