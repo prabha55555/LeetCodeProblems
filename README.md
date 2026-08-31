@@ -43,6 +43,7 @@ Consistentance of the problem solving Java in leetcode
 | [0001-two-sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabha55555/LeetCodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0242-valid-anagram](https://github.com/prabha55555/LeetCodeProblems/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/prabha55555/LeetCodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
@@ -64,6 +65,7 @@ Consistentance of the problem solving Java in leetcode
 | [0013-roman-to-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/0058-length-of-last-word/) | Easy |
+| [0242-valid-anagram](https://github.com/prabha55555/LeetCodeProblems/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
@@ -85,6 +87,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/prabha55555/LeetCodeProblems/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [3731-find-missing-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
