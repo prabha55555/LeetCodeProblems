@@ -30,6 +30,7 @@ Consistentance of the problem solving Java in leetcode
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/prabha55555/LeetCodeProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3731-find-missing-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/3731-find-missing-elements/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Consistentance of the problem solving Java in leetcode
 | [0771-jewels-and-stones](https://github.com/prabha55555/LeetCodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/prabha55555/LeetCodeProblems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3731-find-missing-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/3731-find-missing-elements/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
