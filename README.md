@@ -70,6 +70,7 @@ Consistentance of the problem solving Java in leetcode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabha55555/LeetCodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/prabha55555/LeetCodeProblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/prabha55555/LeetCodeProblems/tree/main/0242-valid-anagram/) | Easy |
@@ -139,4 +140,12 @@ Consistentance of the problem solving Java in leetcode
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/prabha55555/LeetCodeProblems/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/prabha55555/LeetCodeProblems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
