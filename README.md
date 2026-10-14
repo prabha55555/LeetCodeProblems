@@ -11,6 +11,7 @@ Consistentance of the problem solving Java in leetcode
 | [0013-roman-to-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/prabha55555/LeetCodeProblems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/prabha55555/LeetCodeProblems/tree/main/0066-plus-one/) | Easy |
+| [1360-number-of-days-between-two-dates](https://github.com/prabha55555/LeetCodeProblems/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
@@ -85,6 +86,7 @@ Consistentance of the problem solving Java in leetcode
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/prabha55555/LeetCodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/prabha55555/LeetCodeProblems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1360-number-of-days-between-two-dates](https://github.com/prabha55555/LeetCodeProblems/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String Matching
