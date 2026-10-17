@@ -21,6 +21,7 @@ Consistentance of the problem solving Java in leetcode
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/prabha55555/LeetCodeProblems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/prabha55555/LeetCodeProblems/tree/main/0066-plus-one/) | Easy |
@@ -166,4 +167,8 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
