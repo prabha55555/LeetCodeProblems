@@ -39,6 +39,7 @@ Consistentance of the problem solving Java in leetcode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/prabha55555/LeetCodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ Consistentance of the problem solving Java in leetcode
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0054-spiral-matrix/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/prabha55555/LeetCodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Consistentance of the problem solving Java in leetcode
 | [3120-count-the-number-of-special-characters-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/prabha55555/LeetCodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
