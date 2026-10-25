@@ -38,6 +38,7 @@ Consistentance of the problem solving Java in leetcode
 | [2574-left-and-right-sum-differences](https://github.com/prabha55555/LeetCodeProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/prabha55555/LeetCodeProblems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3731-find-missing-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/prabha55555/LeetCodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -113,6 +114,7 @@ Consistentance of the problem solving Java in leetcode
 | [0136-single-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/prabha55555/LeetCodeProblems/tree/main/0190-reverse-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/prabha55555/LeetCodeProblems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
