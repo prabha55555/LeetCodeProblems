@@ -107,6 +107,7 @@ Consistentance of the problem solving Java in leetcode
 | [3121-count-the-number-of-special-characters-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/prabha55555/LeetCodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
