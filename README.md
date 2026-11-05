@@ -38,6 +38,7 @@ Consistentance of the problem solving Java in leetcode
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prabha55555/LeetCodeProblems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -92,6 +93,7 @@ Consistentance of the problem solving Java in leetcode
 | [0283-move-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ Consistentance of the problem solving Java in leetcode
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prabha55555/LeetCodeProblems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3731-find-missing-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/3731-find-missing-elements/) | Easy |
@@ -202,6 +205,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
