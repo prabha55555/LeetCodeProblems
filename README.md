@@ -15,6 +15,7 @@ Consistentance of the problem solving Java in leetcode
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/prabha55555/LeetCodeProblems/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabha55555/LeetCodeProblems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prabha55555/LeetCodeProblems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -48,6 +49,7 @@ Consistentance of the problem solving Java in leetcode
 | [2574-left-and-right-sum-differences](https://github.com/prabha55555/LeetCodeProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabha55555/LeetCodeProblems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/prabha55555/LeetCodeProblems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/3731-find-missing-elements/) | Easy |
