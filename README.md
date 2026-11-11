@@ -19,6 +19,7 @@ Consistentance of the problem solving Java in leetcode
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prabha55555/LeetCodeProblems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/prabha55555/LeetCodeProblems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@ Consistentance of the problem solving Java in leetcode
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prabha55555/LeetCodeProblems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/prabha55555/LeetCodeProblems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
