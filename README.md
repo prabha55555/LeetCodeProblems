@@ -52,6 +52,7 @@ Consistentance of the problem solving Java in leetcode
 | [2778-sum-of-squares-of-special-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabha55555/LeetCodeProblems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/prabha55555/LeetCodeProblems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -160,6 +161,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/prabha55555/LeetCodeProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabha55555/LeetCodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
