@@ -46,6 +46,7 @@ Consistentance of the problem solving Java in leetcode
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prabha55555/LeetCodeProblems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/prabha55555/LeetCodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -152,6 +153,7 @@ Consistentance of the problem solving Java in leetcode
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/prabha55555/LeetCodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prabha55555/LeetCodeProblems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3731-find-missing-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/3731-find-missing-elements/) | Easy |
@@ -184,6 +186,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/prabha55555/LeetCodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prabha55555/LeetCodeProblems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/prabha55555/LeetCodeProblems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -262,4 +265,8 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/prabha55555/LeetCodeProblems/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/prabha55555/LeetCodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
