@@ -1,17 +1,16 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
+
+        Set<Integer> arr = new HashSet<>();
+        for(int i : nums){
+        if(!arr.contains(i)){
+            arr.add(i);
+        }else{
+            return true;
+        }
+        }
+
+       return false;
         
-        HashMap<Integer,Integer> arr=new HashMap<>();
-        for(int aa : nums){
-            arr.put(aa,arr.getOrDefault(aa,0)+1);
-        }
-
-        for(int aa : arr.values()){
-            if(aa>=2)return true;
-           
-        }
-
-        return false;
-
     }
 }
