@@ -36,6 +36,7 @@ Consistentance of the problem solving Java in leetcode
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0136-single-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/prabha55555/LeetCodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/prabha55555/LeetCodeProblems/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0283-move-zeroes/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -83,6 +84,7 @@ Consistentance of the problem solving Java in leetcode
 | [0001-two-sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabha55555/LeetCodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0217-contains-duplicate](https://github.com/prabha55555/LeetCodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/prabha55555/LeetCodeProblems/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/prabha55555/LeetCodeProblems/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -148,6 +150,7 @@ Consistentance of the problem solving Java in leetcode
 | ------- | ------- |
 | [0015-3sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/prabha55555/LeetCodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/prabha55555/LeetCodeProblems/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
