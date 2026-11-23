@@ -120,6 +120,7 @@ Consistentance of the problem solving Java in leetcode
 | [0344-reverse-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## String
@@ -139,6 +140,7 @@ Consistentance of the problem solving Java in leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/prabha55555/LeetCodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/prabha55555/LeetCodeProblems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/prabha55555/LeetCodeProblems/tree/main/1360-number-of-days-between-two-dates/) | Easy |
@@ -212,6 +214,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/prabha55555/LeetCodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prabha55555/LeetCodeProblems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
