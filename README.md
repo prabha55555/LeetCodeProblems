@@ -28,6 +28,7 @@ Consistentance of the problem solving Java in leetcode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0027-remove-element/) | Easy |
@@ -126,6 +127,7 @@ Consistentance of the problem solving Java in leetcode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabha55555/LeetCodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/prabha55555/LeetCodeProblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/0058-length-of-last-word/) | Easy |
@@ -311,4 +313,8 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
