@@ -45,6 +45,7 @@ Consistentance of the problem solving Java in leetcode
 | [0228-summary-ranges](https://github.com/prabha55555/LeetCodeProblems/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
@@ -96,6 +97,7 @@ Consistentance of the problem solving Java in leetcode
 | [0242-valid-anagram](https://github.com/prabha55555/LeetCodeProblems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/prabha55555/LeetCodeProblems/tree/main/0290-word-pattern/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/prabha55555/LeetCodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
@@ -119,6 +121,7 @@ Consistentance of the problem solving Java in leetcode
 | [0283-move-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -173,6 +176,7 @@ Consistentance of the problem solving Java in leetcode
 | [0217-contains-duplicate](https://github.com/prabha55555/LeetCodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/prabha55555/LeetCodeProblems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -261,6 +265,7 @@ Consistentance of the problem solving Java in leetcode
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Linked List
