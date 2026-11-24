@@ -13,6 +13,7 @@ Consistentance of the problem solving Java in leetcode
 | [0066-plus-one](https://github.com/prabha55555/LeetCodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/prabha55555/LeetCodeProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/prabha55555/LeetCodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/prabha55555/LeetCodeProblems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/prabha55555/LeetCodeProblems/tree/main/0412-fizz-buzz/) | Easy |
@@ -88,6 +89,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/prabha55555/LeetCodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/prabha55555/LeetCodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -293,6 +295,7 @@ Consistentance of the problem solving Java in leetcode
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/prabha55555/LeetCodeProblems/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
