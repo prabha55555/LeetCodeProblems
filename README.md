@@ -14,6 +14,7 @@ Consistentance of the problem solving Java in leetcode
 | [0202-happy-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/prabha55555/LeetCodeProblems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/prabha55555/LeetCodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/prabha55555/LeetCodeProblems/tree/main/1360-number-of-days-between-two-dates/) | Easy |
@@ -86,6 +87,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/prabha55555/LeetCodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/prabha55555/LeetCodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -148,6 +150,7 @@ Consistentance of the problem solving Java in leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/prabha55555/LeetCodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/prabha55555/LeetCodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/prabha55555/LeetCodeProblems/tree/main/1189-maximum-number-of-balloons/) | Easy |
