@@ -50,6 +50,7 @@ Consistentance of the problem solving Java in leetcode
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0704-binary-search](https://github.com/prabha55555/LeetCodeProblems/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/prabha55555/LeetCodeProblems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -269,6 +270,7 @@ Consistentance of the problem solving Java in leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/prabha55555/LeetCodeProblems/tree/main/0704-binary-search/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Linked List
