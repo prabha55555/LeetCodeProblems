@@ -11,6 +11,7 @@ Consistentance of the problem solving Java in leetcode
 | [0013-roman-to-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/prabha55555/LeetCodeProblems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/prabha55555/LeetCodeProblems/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/prabha55555/LeetCodeProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/prabha55555/LeetCodeProblems/tree/main/0367-valid-perfect-square/) | Easy |
@@ -246,6 +247,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/prabha55555/LeetCodeProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -344,4 +346,8 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/prabha55555/LeetCodeProblems/tree/main/0278-first-bad-version/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/prabha55555/LeetCodeProblems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
