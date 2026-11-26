@@ -52,6 +52,7 @@ Consistentance of the problem solving Java in leetcode
 | [0228-summary-ranges](https://github.com/prabha55555/LeetCodeProblems/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -134,6 +135,7 @@ Consistentance of the problem solving Java in leetcode
 | [0125-valid-palindrome](https://github.com/prabha55555/LeetCodeProblems/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -181,6 +183,7 @@ Consistentance of the problem solving Java in leetcode
 | [0136-single-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/prabha55555/LeetCodeProblems/tree/main/0190-reverse-bits/) | Easy |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/prabha55555/LeetCodeProblems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Sorting
@@ -286,6 +289,7 @@ Consistentance of the problem solving Java in leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/prabha55555/LeetCodeProblems/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/prabha55555/LeetCodeProblems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/prabha55555/LeetCodeProblems/tree/main/0704-binary-search/) | Easy |
@@ -353,6 +357,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,4 +374,8 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/prabha55555/LeetCodeProblems/tree/main/0075-sort-colors/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
