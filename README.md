@@ -46,6 +46,7 @@ Consistentance of the problem solving Java in leetcode
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/prabha55555/LeetCodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/prabha55555/LeetCodeProblems/tree/main/0228-summary-ranges/) | Easy |
@@ -257,6 +258,7 @@ Consistentance of the problem solving Java in leetcode
 | [0053-maximum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/prabha55555/LeetCodeProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
