@@ -39,6 +39,7 @@ Consistentance of the problem solving Java in leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/prabha55555/LeetCodeProblems/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/prabha55555/LeetCodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0053-maximum-subarray/) | Medium |
@@ -308,6 +309,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/prabha55555/LeetCodeProblems/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0287-find-the-duplicate-number/) | Medium |
