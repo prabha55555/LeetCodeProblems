@@ -35,6 +35,7 @@ Consistentance of the problem solving Java in leetcode
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/prabha55555/LeetCodeProblems/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -134,6 +135,7 @@ Consistentance of the problem solving Java in leetcode
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/prabha55555/LeetCodeProblems/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -203,6 +205,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/prabha55555/LeetCodeProblems/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/prabha55555/LeetCodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/prabha55555/LeetCodeProblems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
