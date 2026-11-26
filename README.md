@@ -39,6 +39,7 @@ Consistentance of the problem solving Java in leetcode
 | [0027-remove-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/prabha55555/LeetCodeProblems/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/prabha55555/LeetCodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/prabha55555/LeetCodeProblems/tree/main/0066-plus-one/) | Easy |
@@ -106,6 +107,7 @@ Consistentance of the problem solving Java in leetcode
 | [0001-two-sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabha55555/LeetCodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/prabha55555/LeetCodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0202-happy-number/) | Easy |
@@ -157,6 +159,7 @@ Consistentance of the problem solving Java in leetcode
 | [0014-longest-common-prefix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/prabha55555/LeetCodeProblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/prabha55555/LeetCodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/prabha55555/LeetCodeProblems/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/prabha55555/LeetCodeProblems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/prabha55555/LeetCodeProblems/tree/main/0242-valid-anagram/) | Easy |
@@ -198,6 +201,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/prabha55555/LeetCodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/prabha55555/LeetCodeProblems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0169-majority-element/) | Easy |
