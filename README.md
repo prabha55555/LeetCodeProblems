@@ -46,6 +46,7 @@ Consistentance of the problem solving Java in leetcode
 | [0066-plus-one](https://github.com/prabha55555/LeetCodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/prabha55555/LeetCodeProblems/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0136-single-number/) | Easy |
@@ -140,6 +141,7 @@ Consistentance of the problem solving Java in leetcode
 | [0027-remove-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/prabha55555/LeetCodeProblems/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/prabha55555/LeetCodeProblems/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0202-happy-number/) | Easy |
