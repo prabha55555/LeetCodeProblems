@@ -147,6 +147,7 @@ Consistentance of the problem solving Java in leetcode
 | [0345-reverse-vowels-of-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/prabha55555/LeetCodeProblems/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -171,6 +172,7 @@ Consistentance of the problem solving Java in leetcode
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/prabha55555/LeetCodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/prabha55555/LeetCodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0443-string-compression](https://github.com/prabha55555/LeetCodeProblems/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/prabha55555/LeetCodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
