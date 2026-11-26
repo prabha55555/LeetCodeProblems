@@ -116,6 +116,7 @@ Consistentance of the problem solving Java in leetcode
 | [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/prabha55555/LeetCodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/prabha55555/LeetCodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prabha55555/LeetCodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/prabha55555/LeetCodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/prabha55555/LeetCodeProblems/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -164,6 +165,7 @@ Consistentance of the problem solving Java in leetcode
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/prabha55555/LeetCodeProblems/tree/main/0412-fizz-buzz/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/prabha55555/LeetCodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/prabha55555/LeetCodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/prabha55555/LeetCodeProblems/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -237,6 +239,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabha55555/LeetCodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/prabha55555/LeetCodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
