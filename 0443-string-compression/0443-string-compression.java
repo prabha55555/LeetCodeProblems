@@ -6,12 +6,12 @@ class Solution {
 
         if(chars.length==1)return 1;
 
-        for(int i=0;i<chars.length-1;i++){
+        for(int i=1;i<chars.length;i++){
 
-            if(chars[i]==chars[i+1]){
+            if(chars[i-1]==chars[i]){
                 count++;
             }else{
-                result+=chars[i];
+                result+=chars[i-1];
                 if(count>1){
                 result+=String.valueOf(count);
                 }
