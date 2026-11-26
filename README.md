@@ -42,6 +42,7 @@ Consistentance of the problem solving Java in leetcode
 | [0053-maximum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/prabha55555/LeetCodeProblems/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/prabha55555/LeetCodeProblems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -88,6 +89,7 @@ Consistentance of the problem solving Java in leetcode
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/prabha55555/LeetCodeProblems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/prabha55555/LeetCodeProblems/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -104,6 +106,7 @@ Consistentance of the problem solving Java in leetcode
 | [0001-two-sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabha55555/LeetCodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/prabha55555/LeetCodeProblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/prabha55555/LeetCodeProblems/tree/main/0217-contains-duplicate/) | Easy |
