@@ -62,6 +62,7 @@ Consistentance of the problem solving Java in leetcode
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/prabha55555/LeetCodeProblems/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/prabha55555/LeetCodeProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -301,6 +302,7 @@ Consistentance of the problem solving Java in leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/prabha55555/LeetCodeProblems/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/prabha55555/LeetCodeProblems/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/prabha55555/LeetCodeProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -365,6 +367,7 @@ Consistentance of the problem solving Java in leetcode
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/prabha55555/LeetCodeProblems/tree/main/0322-coin-change/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/prabha55555/LeetCodeProblems/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -420,4 +423,12 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/prabha55555/LeetCodeProblems/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/prabha55555/LeetCodeProblems/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
