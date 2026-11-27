@@ -40,6 +40,7 @@ Consistentance of the problem solving Java in leetcode
 | [0027-remove-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0045-jump-game-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/prabha55555/LeetCodeProblems/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/prabha55555/LeetCodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0053-maximum-subarray/) | Medium |
@@ -262,6 +263,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/prabha55555/LeetCodeProblems/tree/main/0055-jump-game/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/prabha55555/LeetCodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -282,6 +284,7 @@ Consistentance of the problem solving Java in leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/prabha55555/LeetCodeProblems/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/prabha55555/LeetCodeProblems/tree/main/0070-climbing-stairs/) | Easy |
