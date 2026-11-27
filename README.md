@@ -44,6 +44,7 @@ Consistentance of the problem solving Java in leetcode
 | [0049-group-anagrams](https://github.com/prabha55555/LeetCodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/prabha55555/LeetCodeProblems/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/prabha55555/LeetCodeProblems/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/prabha55555/LeetCodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/prabha55555/LeetCodeProblems/tree/main/0075-sort-colors/) | Medium |
@@ -261,6 +262,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/prabha55555/LeetCodeProblems/tree/main/0055-jump-game/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/prabha55555/LeetCodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prabha55555/LeetCodeProblems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -281,6 +283,7 @@ Consistentance of the problem solving Java in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/prabha55555/LeetCodeProblems/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/prabha55555/LeetCodeProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0152-maximum-product-subarray/) | Medium |
