@@ -62,6 +62,7 @@ Consistentance of the problem solving Java in leetcode
 | [0283-move-zeroes](https://github.com/prabha55555/LeetCodeProblems/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/prabha55555/LeetCodeProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabha55555/LeetCodeProblems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prabha55555/LeetCodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -221,6 +222,7 @@ Consistentance of the problem solving Java in leetcode
 | [0268-missing-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/prabha55555/LeetCodeProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/prabha55555/LeetCodeProblems/tree/main/0389-find-the-difference/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/prabha55555/LeetCodeProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -267,6 +269,7 @@ Consistentance of the problem solving Java in leetcode
 | [0045-jump-game-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/prabha55555/LeetCodeProblems/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/prabha55555/LeetCodeProblems/tree/main/0134-gas-station/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/prabha55555/LeetCodeProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/prabha55555/LeetCodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prabha55555/LeetCodeProblems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -293,6 +296,7 @@ Consistentance of the problem solving Java in leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/prabha55555/LeetCodeProblems/tree/main/0392-is-subsequence/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/prabha55555/LeetCodeProblems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prabha55555/LeetCodeProblems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prabha55555/LeetCodeProblems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Stack
