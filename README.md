@@ -52,6 +52,7 @@ Consistentance of the problem solving Java in leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/prabha55555/LeetCodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabha55555/LeetCodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0134-gas-station](https://github.com/prabha55555/LeetCodeProblems/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/prabha55555/LeetCodeProblems/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/prabha55555/LeetCodeProblems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/prabha55555/LeetCodeProblems/tree/main/0169-majority-element/) | Easy |
@@ -265,6 +266,7 @@ Consistentance of the problem solving Java in leetcode
 | [0011-container-with-most-water](https://github.com/prabha55555/LeetCodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/prabha55555/LeetCodeProblems/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/prabha55555/LeetCodeProblems/tree/main/0134-gas-station/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prabha55555/LeetCodeProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/prabha55555/LeetCodeProblems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prabha55555/LeetCodeProblems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
